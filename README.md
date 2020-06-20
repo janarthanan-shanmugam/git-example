@@ -1,2 +1,2 @@
-# git-example
-for creating the git repoisitory
+# capstone
+capstone project
